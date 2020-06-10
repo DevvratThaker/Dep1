@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 10 12:16:03 2020
-
-@author: administrator
-"""
-
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
